@@ -1,0 +1,39 @@
+_repo: Kertoelmia_60221
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Tamminen, Em.
+    birthdate: 1852
+    deathdate: 1946
+    gutenberg_agent_id: '38596'
+    url: http://www.gutenberg.org/2009/agents/38596
+    wikipedia: https://fi.wikipedia.org/wiki/Emanuel_Tamminen
+creator:
+  author:
+    agent_name: Levetzow, Cornelia
+    aliases:
+    - Levetzow, Cornelia Frederikke Juliane Victorine von
+    - Lewetzow, Cornelia
+    birthdate: 1836
+    deathdate: 1921
+    gutenberg_agent_id: '37196'
+    url: http://www.gutenberg.org/2009/agents/37196
+    wikipedia: https://da.wikipedia.org/wiki/Cornelia_von_Levetzow
+description: ''
+gutenberg_issued: '2019-09-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60221'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Danish -- Translations into Finnish'
+- !lcc 'PT'
+- !lcsh 'Danish fiction -- Translations into Finnish'
+- GITenberg
+tableOfContents: Jouluvierailu -- Knut Nielsen -- Sokea sattuma -- Biina neitsyt --
+  Anna -- Serkku -- Elisabet.
+title: Kertoelmia
+url: http://www.gutenberg.org/ebooks/60221
