@@ -1,5 +1,5 @@
 _repo: Kertoelmia_60221
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Tamminen, Em.
@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '38596'
     url: http://www.gutenberg.org/2009/agents/38596
     wikipedia: https://fi.wikipedia.org/wiki/Emanuel_Tamminen
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Levetzow, Cornelia
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37196
     wikipedia: https://da.wikipedia.org/wiki/Cornelia_von_Levetzow
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60221#Kertoelmia
 gutenberg_issued: '2019-09-02'
 gutenberg_type: Text
 identifiers:
